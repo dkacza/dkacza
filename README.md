@@ -3,7 +3,7 @@ Hello, I'm Dawid, a web developer, currently pursuing bachelors degree in comput
 
 *I believe that simplicity is the highest form of sophistication.*
 
-## Technologies I work with
+### Technologies I work with
 - JavaScript
 - Node.js, Express.js
 - React.js
