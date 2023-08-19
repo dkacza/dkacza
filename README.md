@@ -1,5 +1,6 @@
 ## Short note about me
-Hello, I'm Dawid, a web developer, currently pursuing bachelors degree in computer science. I enjoy creating things, which are both easy to use and maintain.
+Hello, I'm Dawid, a web developer, currently pursuing bachelors degree in computer science.
+I enjoy creating things, which are both easy to use and maintain.
 
 *I believe that simplicity is the highest form of sophistication.*
 
