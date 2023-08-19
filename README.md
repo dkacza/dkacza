@@ -1,16 +1,15 @@
-### Hi there 👋
+## Short note about me
+Hello, I'm Dawid, a web developer, currently pursuing bachelors degree in computer science. I enjoy creating things, which are both easy to use and maintain.
 
-<!--
-**dkacza/dkacza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I believe that simplicity is the highest form of sophistication.*
 
-Here are some ideas to get you started:
+## Technologies I work with
+- JavaScript
+- Node.js, Express.js
+- React.js
+- Java
+- C++
+- MongoDB
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you think, that we could work together, feel free to contact me through my email or LinkedIn profile.
