@@ -12,5 +12,3 @@ I enjoy creating things, which are both easy to use and maintain.
 - C++
 - MongoDB
 - SQL
-
-If you think, that we could work together, feel free to contact me through my email or LinkedIn profile.
